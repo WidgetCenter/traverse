@@ -1,0 +1,1 @@
+These repository contians the custom Traverse widget that was complied using ArcGIS Experience Builder Developer 1.14. This widget is compatible with ArcGIS Enterprise 11.3. It can be added to your organization by using the by using this url:
